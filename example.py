@@ -1,3 +1,3 @@
 print("hello lyra")
-print("modda gud")
+print("hello GIT")
 print("pycharm")
